@@ -1,3 +1,10 @@
+
+
+.input {
+	width: 21em;
+    border: 7px;
+}
+
 .ramecek {
-    border: 7px red
+	border: 4px solid rgba(255, 0, 0, 0.813);
 }
